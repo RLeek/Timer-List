@@ -1,9 +1,11 @@
 # Timer-List
-This is a short hacked-together nearly complete project app made over the holidays to learn swift and apple development. The app is designed to string multiple timers one after the other to allow for multiple played tones over a period of time, these 'timer-lists' can also be set on a loop to repeat multiple times. These timers are also persistent
+This is a nearly completed app made to learn swift and app development.
 
-# Missing functionality/Notable bugs:
+## Motivation
+This app is designed to allow several timers to play one after the other. The main motivation for this app was to provide a way of timing multiple small activities easily. E.g. Doing stretching excercises
+
+## Features/How to use
+Simply create a timer list and then click the associated object. Separate timers can then be created. The start and stop buttons can then be used to start/stop these timers. 
+
+## Missing functionality/Notable bugs:
 - App does not run in the background 
-- Lack of responsiveness to different screen sizes
-- Inability to add notes to timers (Extra planned feature)
-- Stopping and resetting the timers will increase the countdown speed
-- A timer may still continue and play a tone after it has been stopped/cancelled
